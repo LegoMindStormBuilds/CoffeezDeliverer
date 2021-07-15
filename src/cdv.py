@@ -6,6 +6,8 @@ import math
 
 # Create your objects here.
 cdv = MSHub()
+mm = MotorPair('A','B')
+ds = DistanceSensor('D')
 
 
 # Write your program here.
